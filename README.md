@@ -39,8 +39,8 @@ Data Visualization
 📁 Project Structure
 Blinkit_Dashboard/
 │
-├── Blinkit_Dashboard.pbix
-├── Dataset.xlsx
+├── blinkit_Dashboard.png
+├── blinkit_Dashboard.png
 ├──blinkit_Dashboard
 └── README.md
 
