@@ -41,8 +41,7 @@ Blinkit_Dashboard/
 │
 ├── Blinkit_Dashboard.pbix
 ├── Dataset.xlsx
-├── Screenshots/
-│   └── dashboard_preview.png
+├── blinkit_Dashboard.png
 └── README.md
 
 📥 How to Use
